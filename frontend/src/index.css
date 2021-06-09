@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.buttonone{
+  width: 100px;
+  height: 30px;
+  margin: 1%;
+  color: black;
+  background-color:#b7d7e8;
+  border: 1px solid #b7d7e8;
+  border-radius: 5px;
+  font-size: 14px;
+  font-weight: 500;
+}
+.button{
+  /* margin-left: 3%; */
+  margin-top: 1%;
+}
+.searchbox{
+  margin-left: 1%;
+  width: 300px;
+  height: 30px;
+  border: 2px solid #b7d7e8;
+  border-radius: 5px;
+  margin-bottom: 1%;
+}
+.row{
+  color: black;
+  background-color: #b7d7e8;
+}
+.pie{
+  width: 20%; 
+  height: 20%; 
+  margin-left: 25%;
+  margin-right: 20%;
+}
